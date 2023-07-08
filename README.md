@@ -32,10 +32,10 @@ The aim of this mod is to showcase the diversity of Indian continent in the medi
 
  <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/u_ele_howdah_attackA-4218474442.gif" width="200" alt="image" />
 
- #join discord
+ # join discord
   <a href="https://discord.com/invite/THsxRMQcWK"><img
                 alt="Discord"
                 src="https://img.shields.io/discord/676402832106192917?label=Discord&logo=discord&logoColor=ffffff&labelColor=ff69b4&color=blueviolet"></a>
 
-#moddb page
+# moddb page
 [https://www.moddb.com/mods/dharma-expansion/downloads](https://www.moddb.com/mods/dharma-expansion/downloads)
