@@ -28,8 +28,7 @@ The aim of this mod is to showcase the diversity of Indian continent in the medi
 
  <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/Scenario_Editor_Extras.png" width="900" alt="image" />
  
-
- <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/Tibetan_Sanchi_Churten_Inspired.pngg" width="900" alt="image" />
+ 
 
  <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/u_ele_howdah_attackA-4218474442.gif" width="200" alt="image" />
 
