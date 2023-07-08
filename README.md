@@ -19,4 +19,5 @@ The aim of this mod is to showcase the diversity of Indian continent in the medi
 
 :+1:
 
-https://github.com/Dharma-AOE/about/blob/main/imgs/cdsaa-2907642778.png)https://github.com/Dharma-AOE/about/blob/main/imgs/cdsaa-2907642778.png
+
+ <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/cdsaa-2907642778.png" width="900" alt="image" />
