@@ -21,3 +21,25 @@ The aim of this mod is to showcase the diversity of Indian continent in the medi
 
 
  <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/cdsaa-2907642778.png" width="900" alt="image" />
+
+ <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/Into-China.png" width="900" alt="image" />
+
+ <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/Lepanto.png" width="900" alt="image" />
+
+ <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/Lord-of-Arabia.png" width="900" alt="image" />
+
+ <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/Scenario_Editor_Extras.png" width="900" alt="image" />
+
+ <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/The-Horde-Rides-West.png" width="900" alt="image" />
+
+ <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/Tibetan_Sanchi_Churten_Inspired.pngg" width="900" alt="image" />
+
+ <img src="https://github.com/Dharma-AOE/about/blob/main/imgs/u_ele_howdah_attackA-4218474442.gif" width="900" alt="image" />
+
+ #join discord
+  <a href="https://discord.com/invite/THsxRMQcWK"><img
+                alt="Discord"
+                src="https://img.shields.io/discord/676402832106192917?label=Discord&logo=discord&logoColor=ffffff&labelColor=ff69b4&color=blueviolet"></a>
+
+#moddb page
+[https://www.moddb.com/mods/dharma-expansion/downloads](https://www.moddb.com/mods/dharma-expansion/downloads)https://www.moddb.com/mods/dharma-expansion/downloads
